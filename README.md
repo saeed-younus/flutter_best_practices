@@ -1,16 +1,16 @@
-# practice_samples
+# flutter_best_practices
 
-A new Flutter project.
+A Flutter project which contains go_router best practices in flutter.
 
-## Getting Started
+## Some Solutions in this project
 
-This project is a starting point for a Flutter application.
+In this project you can find:
 
-A few resources to get you started if this is your first Flutter project:
+- [🔮 go_router best practices](https://github.com/saeed-younus/flutter_best_practices/tree/main/lib/go_router_practice)
+<!-- - [🔮 go_router shell routes best practices](https://github.com/saeed-younus/flutter_best_practices/tree/main/lib/go_router_practice) -->
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!-- - [🚧 flutter_bloc best practices (In Construction)](https://github.com/saeed-younus/flutter_best_practices/tree/main/lib/bloc_best_practices)
+- [🚧 get_it best practices (In Construction)](https://github.com/saeed-younus/flutter_best_practices/tree/main/lib/get_it_best_practices)
+- [🚧 flutter architect using flutter_bloc best practices (In Construction)](https://github.com/saeed-younus/flutter_best_practices/tree/main/lib/architect)
+- [🚧 usecase in flutter best practices (In Construction)](https://github.com/saeed-younus/flutter_best_practices/tree/main/lib/architect)
+- [🚧 state management in flutter using freezed class best practices (In Construction)](https://github.com/saeed-younus/flutter_best_practices/tree/main/lib/architect) -->
